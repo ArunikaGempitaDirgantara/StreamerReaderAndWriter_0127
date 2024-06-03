@@ -49,3 +49,5 @@ int main()
     else cout << "Unable to open file";
     return 0;
 }
+
+//ini projek yang infile dengan path sudah ditentukan oleh sistem
